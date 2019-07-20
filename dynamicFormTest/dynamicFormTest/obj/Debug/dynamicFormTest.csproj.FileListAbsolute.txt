@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\bin\Debug\dynamicFormTest.exe.config
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\bin\Debug\dynamicFormTest.exe
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\bin\Debug\dynamicFormTest.pdb
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.Form1.resources
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.Properties.Resources.resources
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.exe
+C:\Users\admin\source\repos\dynamicFormTest\dynamicFormTest\obj\Debug\dynamicFormTest.pdb
