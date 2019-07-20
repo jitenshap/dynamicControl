@@ -29,7 +29,7 @@ namespace dynamicFormTest
         }
 
 
-        bool panels_drug = false;
+        bool panels_drag = false;
         int panels_default_x = 0;
         int panels_default_y = 0;
         Control selected_panel;
@@ -41,7 +41,7 @@ namespace dynamicFormTest
             {
                 panels_default_x = e.X;
                 panels_default_y = e.Y;
-                panels_drug = true;
+                panels_drag = true;
             }
             else if (e.Button == MouseButtons.Right)
             {
@@ -53,7 +53,7 @@ namespace dynamicFormTest
 
         private void Panel_MouseMove(object sender, MouseEventArgs e)
         {
-            if(panels_drug)
+            if(panels_drag)
             {
                 Point loc = ((Panel)sender).Location;
                     ((Panel)sender).Location = new Point(((loc.X + e.X - panels_default_x) / 10) * 10, ((loc.Y + e.Y - panels_default_y) / 10) * 10);
@@ -62,7 +62,7 @@ namespace dynamicFormTest
 
         private void Panel_MouseUp(object sender, MouseEventArgs e)
         {
-            panels_drug = false;
+            panels_drag = false;
         }
 
 
